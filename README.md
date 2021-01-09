@@ -1,8 +1,11 @@
+# TODO REPLACE MARKDOWN FILE WITH LATEX FILE
 # Maximo Machado
 
 maximo@mit.edu | (215) 696-1616 | Github: MaximoMachado
 
-Education
+## Education
+
+---
 
 **Massachusetts Institute of Technology (MIT)** | GPA: 5.0 Class of 2023 | Cambridge, MA
 
@@ -18,7 +21,9 @@ Internships
 - Designed a MySQL database with careful attention to the required specifications of the CRM and avenues for normalization
 - Improved the admin tools of a pre-existing Content Management System (CMS) for the company's website
 
-Projects
+## Projects
+
+---
 
 **Spotify Playlist Manager** | Sole DeveloperDecember 2020
 
@@ -32,7 +37,9 @@ Projects
 - Gained valuable experience working with large codebases and reading other team member's code
 - Implemented new interfaces and functionality for brand-new features such as petitioning classes
 
-Experiences
+## Experiences
+
+---
 
 **MIT Undergraduate Practice Opportunities Program (UPOP) |** ParticipantOctober 2020 – Present
 
@@ -49,6 +56,8 @@ Experiences
 - Assisted the CEO in planning and organizing events such as tours and high school sculpture contests
 - Engaged in the logistics of managing the budget of a company
 
-Skills
+## Skills
+
+---
 
 _Python, JavaScript, React, Node.js, PostgreSQL, Git, Vue.js_
