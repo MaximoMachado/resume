@@ -6,7 +6,7 @@ Education
 
 **Massachusetts Institute of Technology (MIT)** | GPA: 5.0 Class of 2023 | Cambridge, MA
 
-- Candidate for Bachelor&#39;s Degree in Computer Science
+- Candidate for Bachelor's Degree in Computer Science
 - Relevant Coursework: Fundamentals of Programming, Computation Structures, Math for Computer Science
 
 Internships
@@ -14,9 +14,9 @@ Internships
 **Falcn Lab LLC. |** Full stack Web Developer InternAugust 2020 – November 2020 | Virtual
 
 - Built a Customer Relationship Management (CRM) website to be used internally
-- Wireframed and blueprinted the CRM&#39;s UI using Figma going through multiple iterations before implementation
+- Wireframed and blueprinted the CRM's UI using Figma going through multiple iterations before implementation
 - Designed a MySQL database with careful attention to the required specifications of the CRM and avenues for normalization
-- Improved the admin tools of a pre-existing Content Management System (CMS) for the company&#39;s website
+- Improved the admin tools of a pre-existing Content Management System (CMS) for the company's website
 
 Projects
 
@@ -29,7 +29,7 @@ Projects
 **Courseroad |** Team MemberSeptember 2019 – August 2020
 
 - Collaborated with a team of four on a website designed to plan academic schedules at MIT
-- Gained valuable experience working with large codebases and reading other team member&#39;s code
+- Gained valuable experience working with large codebases and reading other team member's code
 - Implemented new interfaces and functionality for brand-new features such as petitioning classes
 
 Experiences
@@ -41,7 +41,7 @@ Experiences
 
 **MIT Battlecode Competition** | Team MemberJanuary 2020
 
-- Worked in a team of four to build an AI competing in a turn-based strategy game against other teams&#39; AIs
+- Worked in a team of four to build an AI competing in a turn-based strategy game against other teams' AIs
 - Acquired skills to divide tasks up effectively amongst team members to hit intermittent tournament deadlines
 
 **Mentorship at the Philadelphia Insectarium and Butterfly Pavilion** | Mentoree June 2019
