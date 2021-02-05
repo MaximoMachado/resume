@@ -4,3 +4,6 @@
 *.aux
 *.fls
 *.synctex.gz
+
+# Ignore cover letter pdfs as there would be too many
+/cover-letters/*.pdf
