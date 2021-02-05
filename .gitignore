@@ -1,3 +1,6 @@
-resume.*
-!resume.tex
-!resume.pdf
+*.fdb_latexmk
+*.log
+*.out
+*.aux
+*.fls
+*.synctex.gz
