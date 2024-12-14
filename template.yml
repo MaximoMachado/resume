@@ -1,0 +1,120 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/imprecv/main/cv.typ.schema.json
+
+personal:
+  name: Maximo Machado
+  email: maximomachado246@gmail.com
+  phone: 215-696-1616
+  url: null
+  titles:
+    - Software Engineer
+  location:
+    city: Santa Clara
+    region: California
+    country: United States of America
+  profiles:
+    - network: LinkedIn
+      username: Maximo Machado
+      url: https://linkedin.com/in/maximo-machado
+    - network: GitHub
+      username: MaximoMachado
+      url: https://github.com/MaximoMachado
+
+work:
+  - organization: NVIDIA
+    url: https://nvidia.com
+    location: Santa Clara, CA
+    positions:
+      - position: Software Developer, Deep Learning Libraries
+        startDate: 2023-07-10
+        endDate: "present"
+        highlights:
+          - Work on library supporting GPU kernels that power DL libraries such as cuDNN, cuBLAS, and TensorRT
+          - Drove forward extension of project’s CMake-build system to meet customer binary size concerns
+          - Flesh out test suite of project to exercise artifacts directly consumed by internal customers
+      - position: CUDA Performance Intern
+        startDate: 2022-06-10
+        endDate: 2022-08-30
+        highlights:
+          - Prototyped multithreaded improvements in CUDA’s compute cache resulting in a 2-3x performance increase
+          - Implemented performance benchmarks and made pertinent conclusions based off of data
+          - Presented findings to CUDA Performance team and broader CUDA team as possible inclusion into production
+  - organization: John Deere
+    url: https://johndeere.com
+    location: Remote
+    positions:
+      - position: Product Engineering Intern
+        startDate: 2021-06-10
+        endDate: 2021-08-20
+        highlights:
+          - Developed and presented demos for proof of concepts utilizing Python and AWS for new team of 5 people
+          - Created CI/CD pipelines deploying code onto AWS services using infrastructure-as-code tools such as Terraform
+          - Migrated essential licensing encryption servers to new testing environment providing much-needed added security
+  - organization: Falcn Lab LLC
+    url: https://falcnlab.com
+    location: Remote
+    positions:
+      - position: Full Stack Web Developer Intern
+        startDate: 2020-08-10
+        endDate: 2020-11-20
+        highlights:
+          - Architected a Customer Relationship Management (CRM) providing better organizational tools for working with company clients
+          - Designed a SQL database schema with careful attention paid to normalization
+          - Extended Content Management System’s (CMS) admin tools to assist company’s ability to post new content and articles
+
+education:
+  - institution: Massachusetts Institute of Technology
+    url: https://www.mit.edu/
+    area: Computer Science
+    studyType: Bachelor of Science
+    startDate: 2019-09-01
+    endDate: 2023-05-01
+    location: Cambridge, MA
+    honors:
+      - 4.7 / 5.0 GPA
+    courses:
+      - Performance Engineering
+      - Design and Analysis of Algorithms
+      - Engineering Data Analysis
+      - Compiler Architecture
+    highlights:
+
+affiliations:
+awards:
+certificates:
+publications:
+
+projects:
+  - name: "Spotify Playlist Manager"
+    url: https://www.spotifyplaylistmanager.net
+    affiliation: "Sole Developer"
+    startDate: 2020-12-01
+    endDate: 2020-12-30
+    highlights:
+      - Created a website that serves an average 200 monthly users, spotifyplaylistmanager.net, that expands Spotify user’s abilities to manage and manipulate their playlists
+      - Implemented the Multiple Playlist Searcher which Spotify implemented similar functionality 3 years later
+      - Wrote performant code by caching API requests and queuing jobs to sustain high server load and workaround Spotify API limitations
+
+skills:
+  - category: Programming
+    skills:
+      - C++
+      - C
+      - Python
+      - Rust
+      - Typescript
+  - category: Tools
+    skills:
+      - CMake
+      - Git
+      - Docker
+      - PostgreSQL
+      - NGINX
+
+languages:
+  - language: English
+
+interests:
+
+references:
+  # You can comment out the entries below if you don't have any references
+  # The same goes for the publications
